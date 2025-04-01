@@ -1,4 +1,4 @@
-package src.main.java.level_1.exercici_2.model;
+package main.java.level_1.exercici_2.model;
 
 public class OnlineWorker extends Worker {
 

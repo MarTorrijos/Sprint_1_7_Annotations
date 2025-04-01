@@ -1,4 +1,4 @@
-package src.main.java.level_1.exercici_2.model;
+package main.java.level_1.exercici_1.model;
 
 public class Worker {
 
@@ -27,7 +27,5 @@ public class Worker {
     public int calculateSalary(int workedHours, int hourlyPrice) {
         return workedHours * hourlyPrice;
     }
-
-
 
 }

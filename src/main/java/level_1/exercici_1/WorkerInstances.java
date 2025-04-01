@@ -1,7 +1,7 @@
-package src.main.java.level_1.exercici_1;
+package main.java.level_1.exercici_1;
 
-import src.main.java.level_1.exercici_1.model.OnlineWorker;
-import src.main.java.level_1.exercici_1.model.PresentialWorker;
+import main.java.level_1.exercici_1.model.OnlineWorker;
+import main.java.level_1.exercici_1.model.PresentialWorker;
 
 public class WorkerInstances {
 

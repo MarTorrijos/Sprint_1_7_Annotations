@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 out/
-!src/src/main/java/level_2/**/out/
+!src/main/java/level_2/**/out/
 !**/src/test/**/out/
 
 *.iml
@@ -15,7 +15,7 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!src/src/main/java/level_2/**/bin/
+!src/main/java/level_2/**/bin/
 !**/src/test/**/bin/
 
 ### NetBeans ###

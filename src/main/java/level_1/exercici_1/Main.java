@@ -1,4 +1,4 @@
-package src.main.java.level_1.exercici_1;
+package main.java.level_1.exercici_1;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package src.main.java.level_1.exercici_1.model;
+package main.java.level_1.exercici_2.model;
 
 public class PresentialWorker extends Worker {
 
@@ -17,6 +17,11 @@ public class PresentialWorker extends Worker {
     @Override
     public int calculateSalary(int workedHours, int hourlyPrice) {
         return workedHours * hourlyPrice + GAS;
+    }
+
+    @Deprecated
+    public String deprecatedMethod() {
+        return "Método obsoleto (deprecated) del trabajador presencial";
     }
 
 }
