@@ -37,6 +37,16 @@ Agrega a las clases hijas algunos métodos obsoletos (deprecated) y utiliza la a
 
 <br>
 
+## Nivel 2
+
+<br>
+
+EJERCICIO 1:
+
+Crea una anotación personalizada que permita serializar un objeto Java en un archivo JSON. La anotación debe recibir el directorio donde se colocará el archivo resultante.
+
+<br>
+
 ***
 
 
